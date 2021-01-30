@@ -1,0 +1,2 @@
+Settato l'ambiente di lavoro sfruttando Next.js tramite il comando npx create-next-app nextjs-blog --use-npm
+Per avviare il tutto basta spostarsi dal terminale nella cartella frontend ed eseguire npm run dev
